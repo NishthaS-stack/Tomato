@@ -1,0 +1,1 @@
+Leveraging the React ecosystem, Tomato ensures smooth navigation, real-time updates, and responsive design, providing a fast and efficient way to satisfy your cravings. Whether you're dining in or ordering out, Tomato makes it effortless to enjoy your favorite meals.
